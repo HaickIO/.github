@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![It's us!](profile/AI.png)
+![It's us!](AI.png)
 
 Your AI Enhanced Security and Pentesting company.
 
